@@ -30,6 +30,7 @@
   "author": "yulianto",
   "license": "ISC",
   "dependencies": {
+    "cookie-parser": "^1.4.6",
     "express": "4.18.2",
     "supertest": "^6.3.3",
     "winston": "^3.7.2",
